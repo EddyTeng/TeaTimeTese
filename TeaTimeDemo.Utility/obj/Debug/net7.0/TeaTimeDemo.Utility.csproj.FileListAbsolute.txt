@@ -1,0 +1,24 @@
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.deps.json
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.AssemblyReference.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfoInputs.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfo.cs
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.CoreCompileInputs.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\refint\TeaTimeDemo.Utility.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.Utility\obj\Debug\net7.0\ref\TeaTimeDemo.Utility.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.deps.json
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\bin\Debug\net7.0\TeaTimeDemo.Utility.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.AssemblyReference.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfoInputs.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.AssemblyInfo.cs
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.csproj.CoreCompileInputs.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\refint\TeaTimeDemo.Utility.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\TeaTimeDemo.Utility.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.Utility\obj\Debug\net7.0\ref\TeaTimeDemo.Utility.dll

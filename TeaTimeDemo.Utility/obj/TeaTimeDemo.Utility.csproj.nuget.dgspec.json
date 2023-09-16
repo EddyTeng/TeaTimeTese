@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.NET CORE(正式版)\\MVCDemo\\新增資料夾\\TeaTimeDemoGit-master\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {}
+  },
+  "projects": {
+    "E:\\.NET CORE(正式版)\\MVCDemo\\新增資料夾\\TeaTimeDemoGit-master\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.NET CORE(正式版)\\MVCDemo\\新增資料夾\\TeaTimeDemoGit-master\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectName": "TeaTimeDemo.Utility",
+        "projectPath": "E:\\.NET CORE(正式版)\\MVCDemo\\新增資料夾\\TeaTimeDemoGit-master\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "packagesPath": "C:\\Users\\teng0\\.nuget\\packages\\",
+        "outputPath": "E:\\.NET CORE(正式版)\\MVCDemo\\新增資料夾\\TeaTimeDemoGit-master\\TeaTimeDemo.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teng0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

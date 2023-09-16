@@ -1,0 +1,38 @@
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.deps.json
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.runtimeconfig.json
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Models.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Utility.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Models.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Utility.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.AssemblyInfo.cs
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.CopyComplete
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\refint\TeaTimeDemo.DataAccess.dll
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.pdb
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.genruntimeconfig.cache
+C:\Users\S340-1\Desktop\TeaTimeDemo(R)\TeaTimeDemo\TeaTimeDemo.DataAccess\obj\Debug\net7.0\ref\TeaTimeDemo.DataAccess.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.deps.json
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.runtimeconfig.json
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.DataAccess.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Models.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Utility.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Models.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\bin\Debug\net7.0\TeaTimeDemo.Utility.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.AssemblyReference.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.AssemblyInfoInputs.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.AssemblyInfo.cs
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.CoreCompileInputs.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.csproj.CopyComplete
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\refint\TeaTimeDemo.DataAccess.dll
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.pdb
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\TeaTimeDemo.DataAccess.genruntimeconfig.cache
+E:\.NET CORE(正式版)\MVCDemo\新增資料夾\TeaTimeDemoGit-master\TeaTimeDemo.DataAccess\obj\Debug\net7.0\ref\TeaTimeDemo.DataAccess.dll

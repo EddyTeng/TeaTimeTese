@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TeaTimeDemo",
+    "\\TeaTimeDemo\\Areas",
+    "\\TeaTimeDemo\\Areas\\Admin",
+    "\\TeaTimeDemo\\Areas\\Admin\\Controllers",
+    "\\TeaTimeDemo\\Areas\\Admin\\Views",
+    "\\TeaTimeDemo\\Areas\\Admin\\Views\\Product",
+    "\\TeaTimeDemo\\wwwroot"
+  ],
+  "PreviewInSolutionExplorer": false
+}
